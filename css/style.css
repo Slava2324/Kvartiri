@@ -42,7 +42,7 @@ body {
   top: 0;
   background-image: url('../img/chevron_up.svg');
   background-repeat: no-repeat;
-  background-repeat: center;
+  background-position: center;
 }
 
 .location {
